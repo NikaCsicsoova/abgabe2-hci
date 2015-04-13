@@ -1,0 +1,38 @@
+body{
+	background-color:#EEEEEE;
+	text-align:center;
+}
+
+/* Design für Euro Input */
+#euro{
+	width:200px;
+	height:50px;
+	font-size:20px;
+	box-shadow:inset 0 0 10px 0 rgba(0,0,0,0.6);
+	background-color:#A8D3FF;
+	color:black;
+}
+
+/* Design für Währungen Input */
+#valuta{
+	width:200px;
+	height:50px;
+	font-size:20px;
+	box-shadow:inset 0 0 10px 0 rgba(0,0,0,0.6);
+	background-color:#A8D3FF;
+	color:black;
+}
+
+#betrag{
+	margin-bottom:20px;
+}
+
+#wahrung{
+	margin-bottom:50px;
+}
+
+#result_div{
+	font-size:20px;
+	margin-top:50px;
+	margin-bottom:50px;
+}
